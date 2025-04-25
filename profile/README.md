@@ -1,6 +1,12 @@
 ## MiniBots Senior Design Project 👋
 
-Setting courses for remote control sailboat racing can be a hassle with traditional buoys and anchors,  ultimately leading to frustration and a less enjoyable racing experience. 
+![Team Photo](./team_photo.jpg)
 
-Minibots aims to solve this problem by developing robotic anchorless buoys to allow remote control sailors to set and change their courses easier and faster than ever before
+---
+
+### **MiniBots is revolutionizing the way courses are set for remote control sailboat racing.**
+
+Traditionally, laying out courses with buoys and anchors is time-consuming and frustrating.
+
+We’re solving this with **robotic, anchorless buoys** that empower sailors to set up and adjust their courses **more easily, accurately, and quickly** than ever before.
 
