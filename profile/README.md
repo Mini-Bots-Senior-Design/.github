@@ -18,7 +18,7 @@ We’re solving this with **robotic, anchorless buoys** that empower sailors to 
 ![SysVis](./SystemVisualization.png)
 
 ## 📱  Mobile App
-The Mobile App is the heart part of the MiniBots system allowing sailors to easily view and control the buoys
+The Mobile App is the heart of the MiniBots system allowing sailors to easily view and control the buoys
 <!-- - Multi Page React Native Application
 - WebSockets for Real-Time Updates
 - Live Map for Buoys Location -->
